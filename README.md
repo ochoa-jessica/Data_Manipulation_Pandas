@@ -5,13 +5,13 @@ How to manipulate DataFrames, as you extract, filter, and transform real-world d
 
 ### Content
 **Transforming DataFrames**
-<p>Learn how to inspect DataFrames and perform fundamental manipulations, including sorting rows, subsetting, and adding new columns.</p>
+Learn how to inspect DataFrames and perform fundamental manipulations, including sorting rows, subsetting, and adding new columns.
 
 **Aggregating DataFrames**
-<p>Calculate summary statistics on DataFrame columns, and master grouped summary statistics and pivot tables.</p>
+Calculate summary statistics on DataFrame columns, and master grouped summary statistics and pivot tables.
 
 **Slicing and Indexing DataFrames**
-<p>Indexes are supercharged row and column names. Learn how they can be combined with slicing for powerful DataFrame subsetting.</p>
+Indexes are supercharged row and column names. Learn how they can be combined with slicing for powerful DataFrame subsetting.
 
 **Creating and Visualizing DataFrames**
-<p>Learn to visualize the contents of your DataFrames, handle missing data values, and import data from and export data to CSV files.</p>
+Learn to visualize the contents of your DataFrames, handle missing data values, and import data from and export data to CSV files.
