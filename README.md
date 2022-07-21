@@ -4,14 +4,14 @@
 How to manipulate DataFrames, as you extract, filter, and transform real-world datasets for analysis. Using real-world data, including Walmart sales figures and global temperature time series, we’ll look into how to import, clean, calculate statistics, and create visualizations—using pandas to add to the power of Python!
 
 ### Content
-<li> Transforming DataFrames </li>
+**Transforming DataFrames**
 <p>Learn how to inspect DataFrames and perform fundamental manipulations, including sorting rows, subsetting, and adding new columns.</p>
 
-<li>Aggregating DataFrames </li>
+**Aggregating DataFrames**
 <p>Calculate summary statistics on DataFrame columns, and master grouped summary statistics and pivot tables.</p>
 
-<li> Slicing and Indexing DataFrames </li>
+**Slicing and Indexing DataFrames**
 <p>Indexes are supercharged row and column names. Learn how they can be combined with slicing for powerful DataFrame subsetting.</p>
 
-<li> Creating and Visualizing DataFrames </li>
+**Creating and Visualizing DataFrames**
 <p>Learn to visualize the contents of your DataFrames, handle missing data values, and import data from and export data to CSV files.</p>
