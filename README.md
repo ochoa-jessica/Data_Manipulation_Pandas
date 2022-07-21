@@ -1,4 +1,4 @@
-# [Pandas_Refresher_DataCamp](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
+# [Pandas_Data_Manipulaiton_With_DataCamp](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
 ### Context
 How to manipulate DataFrames, as you extract, filter, and transform real-world datasets for analysis. Using real-world data, including Walmart sales figures and global temperature time series, we’ll look into how to import, clean, calculate statistics, and create visualizations—using pandas to add to the power of Python!
