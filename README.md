@@ -1,4 +1,4 @@
-# [Pandas_Data_Manipulaiton_With_DataCamp](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
+# [Pandas_Data_Manipulation_With_DataCamp](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
 ### Content
 1. **Transforming DataFrames** : learn how to inspect DataFrames and perform fundamental manipulations, including sorting rows, subsetting, and adding new columns.
